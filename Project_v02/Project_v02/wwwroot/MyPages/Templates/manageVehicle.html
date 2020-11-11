@@ -1,0 +1,82 @@
+﻿
+<div class="container">
+
+    <nav-bar-connected-directive></nav-bar-connected-directive>
+
+    <div class="col-md-5 mx-auto">
+        <div class="myform form">
+            <div class="logo mb-3">
+                <div class="col-md-12">
+
+                    <!--Start Form-->
+                    <form ng-submit="createVehicle()">
+                        <h5 style="text-align: center">Add / Manage Cars</h5>
+                        <!--<div class="manageVehicle-form" ng-show="vehicleid">
+                            <label class="labelmanageVehicleId">Id:</label><span>
+                                <input type="number" class="form-control" ng-model="vehicle.id" placeholder="insert id.." />
+                            </span>
+                        </div>-->
+                        <div class="manageVehicle-form">
+                            <label class="labelmanageVehicleLicense">Plate:</label>
+                            <input type="text" class="form-control" ng-model="vehicle.licensePlate" placeholder="insert new plate.." />
+                            &nbsp; &nbsp;
+                            <span>
+                                <input type="checkbox" ng-model="vehicle.active" name="vehicleCheckBox" style="margin-top:13px">
+                            </span>
+                        </div>
+
+
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="submit" class="btn btn-success btn-sm" ng-show="submit" />
+                            <input type="button" value="update" ng-click="updateVehicle()" class="btn btn-success btn-sm" ng-show="update" />
+                            <input type="button" value="cancel" ng-click="cancelUpdate()" class="btn btn-danger btn-sm" ng-show="cancel" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!--End Form-->
+            <!--Vehicle List-->
+
+
+            <p style="text-align:center; margin-bottom:0.5rem">
+                <b> Vehicle List &nbsp; &nbsp;</b>
+                <span>Search: <input type="text" ng-model="MyFilter" class="searchVehicle" placeholder="insert..." /></span>
+            </p>
+            <div class="myTableManageVehicle">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <!--<th ng-click="sortBy='id'; reverse=!reverse" style="border-bottom: 0px">Id</th>-->
+                            <th ng-click="sortBy='licensePlate'; reverse=!reverse" style="border-bottom: 0px">Plate</th>
+                            <td><b>Active</b></td>
+                            <td><b>Update</b></td>
+                            <td><b>Delete</b></td>
+                        </tr>
+                    </thead>
+
+                    <tbody style="height:220px">
+                        <tr ng-repeat="item in vehicles | orderBy: 'Id' | filter: MyFilter | orderBy: sortBy: reverse ">
+                            <!--<td>
+                                {{item.id}}
+                            </td>-->
+                            <td class="manageVehicleLicensePlateClass">
+                                {{item.licensePlate}}
+                            </td>
+                            <td>
+                                <input type="checkbox" ng-model="item.active" class="vehicleCheckBox" value=""> 
+                            </td>
+                            <td>
+                                <button class="btn btn-success btn-sm" ng-click="editVehicle(item)">Edit</button>
+                            </td>
+                            <td>
+                                <button class="btn btn-danger btn-sm" ng-click="deleteVehicle(item)">Delete</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,189 @@
+﻿.iconPdf {
+    margin-left: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.formDataReport {
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: flex;
+}
+
+
+.formInputDataStart {
+    border-radius: 2px;
+    margin-left: 6px;
+    flex: 1;
+}
+
+.formInputDataEnd {
+    border-radius: 2px;
+    margin-left: 6px;
+    flex: 1;
+}
+
+.formChartReport {
+    height: 75px;
+    border: 1.5px solid #ababab;
+    flex: 1;
+}
+
+.formInputChartReport {
+    height: 140px;
+    flex: 1;
+    border: 1.5px solid #ababab;
+    width: 95%;
+    margin: 10px;
+    margin-top: 15px;
+    background-color: #f0f0f0;
+}
+
+.titleLocalReport {
+    font-size: 22px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.myHover {
+    background-color: #ebebeb;
+    font-size: 17px;
+}
+
+.myHover2 {
+    background-color: #dddddd;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.smallTablePickList {
+    text-align: center;
+    border-radius: 0.5rem;
+    margin-bottom: 8px;
+    margin-left: 1px;
+    background-color: #f7f7f7;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 28px;
+    width: 45%;
+    font-size: 13px;
+    flex: 1
+
+}
+
+.login-eller {
+    position: relative;
+    color: #aaa;
+    margin-bottom: 2px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.span-eller {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -2px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+}
+
+.hr-eller {
+    height: 3px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.customizeReport {
+    margin-left: 5px;
+    padding-bottom: 5px;
+    font-size: 17px;
+}
+
+.customizeReportTable {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    height: 85%;
+    pointer-events: auto;
+    background-color: #daaa7312;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    padding-top: 10px;
+    padding-bottom: 5px
+}
+
+.formDataReport {
+    padding-bottom: 5px;
+}
+
+.submitCustomizedReport {
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.canvasClass {
+    height: 100%;
+    width: 100%;
+    padding: 12px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 435px) {
+    .smallTablePickList{
+        width:25%;
+    }
+    .formInputDataStart {
+        width: 100px;
+    }
+    .formInputDataEnd {
+        width: 100px;
+    }
+}
+
+@media (min-width: 436px) {
+    .customizeReportTable {
+        max-height: 365px;
+    }
+    .canvasClass {
+        max-height: 350px;
+        max-width: 350px;
+    }
+}
+
+@media (max-height: 569px) {
+
+    .customizeReportTable {
+        max-height: 80%;
+    }
+    .canvasClass {
+        max-height: 115%;
+    }
+}
+
+@media (max-height: 600px) {
+
+    .customizeReportTable {
+        max-height: 90%;
+    }
+    .canvasClass {
+        max-height: 240px;
+        max-width: 240px;
+    }
+}
+
+
+

@@ -1,0 +1,62 @@
+[
+  {
+    "outputFileName": "wwwroot/MyPages/css/bundleAllCss.css",
+    "inputFiles": [
+      "wwwroot/MyPages/css/chat.css",
+      "wwwroot/MyPages/css/getJourneys.css",
+      "wwwroot/MyPages/css/loginStart.css",
+      "wwwroot/MyPages/css/manageVehicle.css",
+      "wwwroot/MyPages/css/navBar.css",
+      "wwwroot/MyPages/css/newJourney.css",
+      "wwwroot/MyPages/css/newUser.css",
+      "wwwroot/MyPages/css/recoverPassword.css",
+      "wwwroot/MyPages/css/report.css",
+      "wwwroot/MyPages/css/userConnected.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/MyPages/jsDirectives/bundleDirectives.js",
+    "inputFiles": [
+      "wwwroot/MyPages/jsDirectives/chatDirective.js",
+      "wwwroot/MyPages/jsDirectives/loginDirective.js",
+      "wwwroot/MyPages/jsDirectives/manageVehicleDirective.js",
+      "wwwroot/MyPages/jsDirectives/navBarConnectedDirective.js",
+      "wwwroot/MyPages/jsDirectives/navBarDirective.js",
+      "wwwroot/MyPages/jsDirectives/newJourneyDirective.js",
+      "wwwroot/MyPages/jsDirectives/newUserDirective.js",
+      "wwwroot/MyPages/jsDirectives/pdfDirective.js",
+      "wwwroot/MyPages/jsDirectives/recoverPasswordDirective.js",
+      "wwwroot/MyPages/jsDirectives/reportDirective.js",
+      "wwwroot/MyPages/jsDirectives/userConnectedDirective.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/MyPages/Scripts/bundleScripts.js",
+    "inputFiles": [
+      "wwwroot/MyPages/Scripts/loginStart.js",
+      "wwwroot/MyPages/Scripts/navBar.js",
+      "wwwroot/MyPages/Scripts/navBarConnected.js",
+      "wwwroot/MyPages/Scripts/newJourney.js",
+      "wwwroot/MyPages/Scripts/newUser.js",
+      "wwwroot/MyPages/Scripts/recoverPassword.js",
+      "wwwroot/MyPages/Scripts/report.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/MyPages/jsControllers/bundleAllControllers.js",
+    "inputFiles": [
+      "wwwroot/MyPages/jsControllers/chatController.js",
+      "wwwroot/MyPages/jsControllers/getJourneysController.js",
+      "wwwroot/MyPages/jsControllers/loginController.js",
+      "wwwroot/MyPages/jsControllers/manageVehicleController.js",
+      "wwwroot/MyPages/jsControllers/navBarConnectedController.js",
+      "wwwroot/MyPages/jsControllers/navBarController.js",
+      "wwwroot/MyPages/jsControllers/newJourneyController.js",
+      "wwwroot/MyPages/jsControllers/newUserController.js",
+      "wwwroot/MyPages/jsControllers/pdfController.js",
+      "wwwroot/MyPages/jsControllers/recoverPasswordController.js",
+      "wwwroot/MyPages/jsControllers/reportController.js",
+      "wwwroot/MyPages/jsControllers/userConnectedController.js"
+    ]
+  }
+]

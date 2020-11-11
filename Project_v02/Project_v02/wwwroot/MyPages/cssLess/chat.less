@@ -1,0 +1,204 @@
+﻿// Color variables (appears count calculates by raw css)
+@color0: #ffffff; // Appears 4 times
+@color1: #cccccc; // Appears 2 times
+@color2: #fbfbfb; // Appears 2 times
+@color3: #bcbbbb; // Appears 2 times
+@color4: #333333; // Appears 2 times
+
+// Width variables (appears count calculates by raw css)
+@width0: 100%; // Appears 3 times
+@width1: 10px; // Appears 2 times
+@width3: 95%; // Appears 2 times
+@width4: 92%; // Appears 2 times
+
+// Height variables (appears count calculates by raw css)
+@height4: 100%; // Appears 4 times
+@height8: 96%; // Appears 2 times
+
+.bigChat {
+    background-color: @color0;
+    border-radius: 0.8rem;
+    border: 1px solid rgba(0,0,0,.2);
+    height: 420px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+    padding-bottom: 2px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.chatbox {
+    background: #fff7ce;
+    box-shadow: 0 0px @color1;
+    height: 92%;
+    height: 95%;
+    height: @height8;
+    height: @height8;
+    margin: 10px;
+    padding: 10px;
+    width: @width3;
+    width: @width4;
+    width: @width4;
+}
+
+.chatlogs {
+    background: #fffff3;
+    height: @height4;
+    height: @height4;
+    height: @height4;
+    height: @height4;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 10px;
+    width: @width0;
+
+    &: {
+        -webkit-scrollbar {
+            width: @width1;
+        }
+
+        -webkit-scrollbar-thumb {
+            background: rgba(0,0,0,.1);
+            border-radius: 5px;
+        }
+    }
+}
+
+.chat {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+    margin-bottom: 10px;
+
+    .user-photo {
+        background: @color1;
+        border-radius: 50%;
+        height: 30px;
+        overflow: hidden;
+        width: 30px;
+
+        img {
+            width: @width0;
+        }
+    }
+
+    .chat-message {
+        border-radius: 10px;
+        color: @color0;
+        font-size: 14px;
+        margin: 5px 10px 0;
+        padding: 10px;
+        width: @width3;
+    }
+}
+
+.helpdesk {
+    .chat-message {
+        background: #0062ff;
+    }
+}
+
+.self {
+    .chat-message {
+        background: #00bdce;
+        order: -1;
+    }
+}
+
+.chat-form {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 20px;
+
+    textarea {
+        background: @color2;
+        border-radius: 3px;
+        border: 2px solid @color3;
+        color: @color4;
+        font-size: 14px;
+        font-size: 16px;
+        height: 50px;
+        padding: 10px;
+        resize: none;
+        width: @width0;
+
+        &:focus {
+            background: @color0;
+        }
+
+        &: {
+            -webkit-scrollbar {
+                width: @width1;
+            }
+
+            -webkit-scrollbar-thumb {
+                background: rgba(0,0,0,.1);
+                border-radius: 5px;
+            }
+        }
+    }
+
+    button {
+        -moz-transition: background .2s ease;
+        -o-transition: background .2s ease;
+        -webkit-transition: background .2s ease;
+        background: #3a34ff;
+        border-radius: 3px;
+        border: none;
+        box-shadow: 3px 4px 2px #949494;
+        color: @color0;
+        cursor: pointer;
+        font-size: 24px;
+        margin-left: 5px;
+        padding: 5px 5px;
+
+        &:hover {
+            background: #13c8d9;
+        }
+    }
+}
+
+.senderClass {
+    background: @color2;
+    border-radius: 3px;
+    border: 2px solid @color3;
+    color: @color4;
+    font-size: 16px;
+    height: 35px;
+    padding: 10px;
+    resize: none;
+    width: 50%;
+}
+
+.chatPage {
+    font-size: 18px;
+    margin-left: 22px;
+    text-align: left;
+}
+
+@media {
+    (max-height {
+        &:568px) {
+            .bigChat {
+                height: 355px;
+            }
+
+            &:600px) {
+                .bigChat {
+                    height: 375px;
+                }
+            }
+
+            (min-height {
+                &:601px) {
+                    .bigChat {
+                        height: 440px;
+                    }
+                }
+            }

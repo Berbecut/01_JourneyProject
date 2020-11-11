@@ -1,0 +1,59 @@
+﻿<div class="container">
+
+    <nav-bar-connected-directive></nav-bar-connected-directive>
+
+    <div class="col-md-5 mx-auto">
+        <div class="myform form ">
+            <div class="logo mb-3">
+                <div class="col-md-12 text-center">
+                    <p class="chatPage">Suport page-chat</p>
+                </div>
+            </div>
+
+            <div class="bigChat">
+                <div class="chatbox">
+                    <div class="chatlogs">
+
+                        <div ng-repeat="item in messages">
+
+                            <div class="chat self" ng-hide="item.name == 'Support'">
+                                <div class="user-photo"><img src="/MyPages/img/userTwo.png" /></div>
+                                &nbsp; {{item.name}} [{{item.time}}]
+                                <ul>
+                                    <li style="color: #eee" class="chat-message">
+                                        {{item.message}}
+                                    </li>
+                                </ul>
+                            </div>
+
+
+
+                            <div class="chat helpdesk " ng-show="item.name == 'Support'">
+                                <div class="user-photo"><img src="/MyPages/img/userOne.png" /></div>
+                                &nbsp; {{item.name}} [{{item.time}}]
+                                <ul>
+                                    <li style="color: #eee" class="chat-message">
+                                        {{item.message}}
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="chat-form">
+                            <div>
+                                Sender: <input type="text" placeholder="Name" ng-model="name" class="senderClass" />
+                            </div>
+                        </div>
+
+                        <div class="chat-form">
+                            <textarea placeholder="Message" ng-model="message"></textarea>
+                            <button ng-click="send()">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

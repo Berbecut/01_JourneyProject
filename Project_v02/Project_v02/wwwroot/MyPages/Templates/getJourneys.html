@@ -1,0 +1,94 @@
+﻿
+<div class="container">
+
+    <nav-bar-connected-directive></nav-bar-connected-directive>
+
+    <div class="col-md-5 mx-auto">
+        <div class="myform form ">
+            <div class="logo mb-3">
+                <div class="col-md-12 text-center">
+                    <p class="getJourneyListTitle">
+                        Journey list  &nbsp;&nbsp;&nbsp;
+                        <span>Search: <input type="text" ng-model="MyFilter" class="inputSearchJourneys" /></span>
+                    </p>
+                </div>
+            </div>
+
+
+            <div class="myTable">
+                <table class="table table-striped">
+                    <thead>
+                        <tr style="font-size:14px">
+                            <th ng-click="sortBy='selectVehicle'; reverse=!reverse"><b>Plate</b></th>
+                            <th ng-click="sortBy='dateTime'; reverse=!reverse"><b>StartDate</b></th>
+                            
+                            <!--<th ng-click="sortBy='meterStart'; reverse=!reverse"><b>StartKm</b></th>-->
+                            <!--<th ng-click="sortBy='meterStop'; reverse=!reverse"><b>StopKm</b></th>-->
+
+                            <th ng-click="sortBy='totalLength'; reverse=!reverse"><b>Km</b></th>
+
+                            <th ng-click="sortBy='locationStart.city'; reverse=!reverse"><b>StartCity</b></th>
+                            <th ng-click="sortBy='locationStart.streetName'; reverse=!reverse"><b>Street</b></th>
+                            <th ng-click="sortBy='locationStart.streetNumber'; reverse=!reverse"><b>No</b></th>
+
+                            <th ng-click="sortBy='locationStop.city'; reverse=!reverse"><b>StopCity</b></th>
+                            <th ng-click="sortBy='locationStop.streetName'; reverse=!reverse"><b>Street</b></th>
+                            <th ng-click="sortBy='locationStop.streetNumber'; reverse=!reverse"><b>No</b></th>
+
+                            <th ng-click="sortBy='case'; reverse=!reverse"><b>CaseType</b></th>
+                            <th ng-click="sortBy='notes'; reverse=!reverse"><b>Notes</b></th>
+
+                            <th><b>Update</b></th>
+                            <th><b>Delete</b></th>
+
+
+                        </tr>
+                    </thead>
+
+
+                    <tbody class="scrollTableCompletedJourneys">
+                        <tr ng-repeat="item in journeys | orderBy: 'dateTime'
+                                | filter: MyFilter | orderBy: sortBy: reverse">
+
+                            <td>{{item.vehicle.licensePlate}}</td>
+                            <td>{{item.dateTime | date: 'dd-MM-yyyy'}}</td>
+
+                            <!--<td>{{item.meterStart}}</td>-->
+                            <!--<td>{{item.meterStop}}</td>-->
+
+                            <td>{{item.totalLength}}</td>
+
+                            <td>{{item.locationStart.city}}</td>
+                            <td>{{item.locationStart.streetName}}</td>
+                            <td>{{item.locationStart.streetNumber}}</td>
+
+                            <td>{{item.locationStop.city}}</td>
+                            <td>{{item.locationStop.streetName}}</td>
+                            <td>{{item.locationStop.streetNumber}}</td>
+
+                            <td>{{item.case}}</td>
+                            <td>{{item.note}}</td>
+
+                            <td>
+                                <button class="btn btn-success btn-sm" ng-click="addSavedJourney(item.id)">Edit</button>
+                            </td>
+                            <td>
+                                <button class="btn btn-danger btn-sm" ng-click="deleteJourney(item)">Delete</button>
+                            </td>
+
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div>
+                <br />
+                <div style="text-align:center; color: #0000ff">
+                    <i class="fa fa-arrow-left" style="font-size:18px"></i>
+                    <a href="#!/report">Back to report page</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

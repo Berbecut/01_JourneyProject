@@ -1,0 +1,92 @@
+﻿<div class="container">
+
+    <nav-bar-connected-directive></nav-bar-connected-directive>
+
+    <div class="col-md-5 mx-auto">
+        <div class="myform form ">
+
+            <div class="vehicleList">
+                <b style="font-size:14px">Register a new trip</b><span>
+                    <select name="carlist" form="carform" class="bigTablePickList1" ng-model="selectVehicle">
+                        <option ng-repeat="item in vehicles" class="optionCar">{{item.licensePlate}}</option>
+                    </select>
+                </span>
+                <span class="myerror" ng-show="selectVehicleError==true && id==0">??</span>
+
+                <div class="formNewJourney">
+                    <label for="dataLabel">Date:</label>
+                    <input type="datetime-local" ng-model="dateTime" name="dateStartJourney" class="formInputData" id="dateStartJourneyId" aria-describedby="dateStartJourneyHelp">
+                    <i style="margin-top:7px; margin-left:5px; color:black" class="fa fa-calendar" aria-hidden="true"></i>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="startMeterLabel">Start km:</label>
+                    <input type="number" ng-model="start" name="Startmeter" class="formInputSM" id="StartMeterId" aria-describedby="StartMeterHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="startError">&nbsp; Insert km</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="stopMeterLabel">Stop km:</label>
+                    <input type="number" ng-model="stop" name="Stopmeter" class="formInputEM" id="StopMeterId" aria-describedby="StopMeterHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="stopError">&nbsp; Insert km</div>
+                </div>
+                <div class="formNewJourney">
+                    <label for="journeyLengthLabel">Length:</label>
+                    <input type="number" ng-model="stop - start" name="Journeylength" class="formInputJL" id="JourneylengthId" readonly aria-describedby="JourneyLengthHelp">
+                    <div class="myerror" ng-show="stopErrorNegative">Fill more km</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="startAddressLabel">Start city:</label>
+                    &nbsp;
+                    <span><i class="fas fa-map-pin" ng-click="findStartAddress()"></i></span>
+                    <input type="text" ng-model="Citystart" name="CityStart" class="formInputSA" id="StartAddressId" aria-describedby="StartAddressHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="startCityError">Insert city</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="startAddressLabel">Street:</label>
+                    <input type="text" ng-model="Startaddress" name="Startaddress" class="formInputSA" id="StartAddressId" aria-describedby="StartAddressHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="startAddressError">???</div>
+
+                    <label for="startAddressLabel"> &nbsp; No:</label>
+                    <input type="text" ng-model="Startno" name="StartNo" class="formInputNo" id="StartNoId" aria-describedby="StartNoHelp">
+                    <div class="myerror" ng-show="startNumberError"> &nbsp; ???</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="startAddressLabel">Stop city:</label>
+                    &nbsp;
+                    <span><i class="fas fa-map-pin" ng-click="findStopAddress()"></i></span>
+                    <input type="text" ng-model="Citystop" name="CityStop" class="formInputSA" id="StartAddressId" aria-describedby="StartAddressHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="stopCityError">Insert city</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="endAddressLabel">Street:</label>
+                    <input type="text" ng-model="Endaddress" name="Endaddress" class="formInputEA" id="EndAddressId" aria-describedby="EndAddressHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="stopAddressError">???</div>
+
+                    <label for="startAddressLabel"> &nbsp; No:</label>
+                    <input type="text" ng-model="Endno" name="StopNo" class="formInputNo" id="StopNoId" aria-describedby="StopNoHelp">
+                    <div class="myerror" ng-show="stopNumberError"> &nbsp; ???</div>
+                </div>
+
+                <div class="formNewJourney">
+                    <label for="caseLabel">My cases:</label>
+                    <input type="text" ng-model="case" name="case" class="formInputMC" id="CaseId" aria-describedby="CaseHelp" placeholder=" insert here... ">
+                    <div class="myerror" ng-show="caseError"> &nbsp; ???</div>
+                </div>
+                <div class="formNewJourney">
+                    <input type="text" ng-model="Notes" name="Notes" class="formInputMN" id="NotesId" aria-describedby="NotesHelp" placeholder=" My important notes... ">
+                </div>
+
+                <div class="col-md-12 text-center mb-3">
+                    <button type="submit" ng-click="savePartialJourney()" ng-disabled="selectVehicleError==true" style="margin-right:5px" class="btn mybtn btn-info tx-tfm savePartialJourneyButton">Save Partial</button>
+                    <button type="submit" ng-click="saveJourney()" ng-disabled="selectVehicleError==true && id==0" style="margin-left:5px" class=" btn mybtn btn-success tx-tfm">Save Journey</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

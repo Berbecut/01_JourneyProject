@@ -1,0 +1,19 @@
+﻿
+<div class="row" ng-controller="navBarConnectedController" >
+    <div class="col-md-12 mx-auto text-center headerJourney">
+        <span class="titleJourney">Journey</span>
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn fas fa-bars"></button>
+            <div id="myDropdown" class="dropdown-content">
+                <a href="#!/userConnected">Outgoing trips</a>
+                <a href="#!/newJourney" class="myHover">New journey</a>
+                <a href="#!/manageVehicle">Manage vehicles</a>
+                <a href="#!/report" class="myHover">Get reports</a>
+                <a href="#!/chat">Support chat</a>
+                <a href="" class="myHover2" ng-click="signOutFunction()">Sign Out</a>
+            </div>
+        </div>
+        <span ng-show="showMessage">Hello:</span>
+        <span style="color:#008398; font-size:16px">{{email}}</span>
+    </div>
+</div>

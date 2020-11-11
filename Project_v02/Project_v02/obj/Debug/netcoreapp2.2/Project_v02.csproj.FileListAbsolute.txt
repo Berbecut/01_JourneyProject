@@ -1,0 +1,390 @@
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Mihaela\Desktop\Project Florin\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\29 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\30 Apr\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Florin\Campus Varnamo\08_Modulär klientprogrammering WU18 vt 2019\Projekt\Versiuni Project\01 Mai\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Journey\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.deps.json
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.json
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.runtimeconfig.dev.json
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.dll
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.pdb
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.dll
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\bin\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csprojAssemblyReference.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CoreCompileInputs.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorAssemblyInfo.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfoInputs.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.AssemblyInfo.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.input.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.TagHelpers.output.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorCoreGenerate.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cache
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.RazorTargetAssemblyInfo.cs
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.Views.pdb
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.dll
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.pdb
+F:\MyProjects for interviews\01_JourneyProject\Project_v02\Project_v02\obj\Debug\netcoreapp2.2\Project_v02.csproj.CopyComplete

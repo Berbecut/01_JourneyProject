@@ -1,0 +1,93 @@
+﻿.manageVehicle-form {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.labelmanageVehicleId {
+    padding: 5px;
+    margin-right: 31px;
+}
+
+.labelmanageVehicleLicense {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.searchVehicle {
+    padding: .375rem .75rem;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.myTableManageVehicle {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: white;
+    font-size: 13px;
+}
+
+.manageVehicleLicensePlateClass {
+    padding-top: 23px !important;
+}
+
+.vehicleCheckBox {
+    margin-top: 17px;
+}
+
+@media (min-height: 500px) {
+    .myTableManageVehicle {
+        height: 100%;
+    }
+}
+
+@media (max-height: 569px) {
+
+    .myTableManageVehicle {
+        height: 285px;
+    }
+}
+
+@media (min-height: 570x) {
+
+    .myTableManageVehicle {
+        height: 365px;
+    }
+}
+
+@media (max-height: 641px) {
+
+    .myTableManageVehicle {
+        height: 236px;
+    }
+}
+
+@media (min-height: 642px) {
+
+    .myTableManageVehicle {
+        height: 310px;
+    }
+}
+
+@media (max-height: 730px) {
+
+    .myTableManageVehicle {
+        height: 300px;
+    }
+}
+
+@media (min-height: 731px) {
+
+    .myTableManageVehicle {
+        height: 350px;
+    }
+}
+
+@media (max-width: 311px) {
+
+    .searchVehicle {
+        width: 100%;
+    }
+}

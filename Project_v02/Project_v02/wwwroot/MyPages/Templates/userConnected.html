@@ -1,0 +1,54 @@
+﻿
+
+<div class="container">
+
+    <nav-bar-connected-directive></nav-bar-connected-directive>
+
+    <div class="col-md-5 mx-auto">
+        <div class="myform form ">
+            <div class="logo mb-3">
+                <div class="col-md-12 text-center">
+                    <form method="get" action="#!/newJourney">
+                        <button type="submit" class="btn mybtn btn-primary tx-tfm userConnectedButton" ng-show="journeys.length == 0">Start a New journey</button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="bigTable">
+                <p class="ongoingTripTitle">
+                    Ongoing trips &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span>
+                        Search: <input type="text" ng-model="MyFilter" class="inputSearchPartialJourneys" />
+                    </span>
+                </p>
+                <div class="col-10 ongoingTripValues">
+
+
+                    <!--Inserted by Florin-->
+                    <table class="table table-striped">
+                        <thead style="background-color:#fffef0; color:red">
+                            <tr>
+                                <th ng-click="sortBy='dateTime'; reverse=!reverse"><b>Date</b></th>
+                                <th ng-click="sortBy='item.vehicle.licensePlate'; reverse=!reverse"><b>Plate</b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="scrollTable"
+                                ng-repeat="item in journeys | filter: MyFilter | orderBy: 'dateTime'| orderBy: sortBy: reverse"
+                                ng-click="addUnsavedJourney(item.id)">
+
+                                <td>{{item.dateTime}}</td>
+                                <td>{{item.vehicle.licensePlate}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <br />
+            <div style="text-align:center; color: #ff3939">
+                <i class="fa fa-arrow-left" style="font-size:18px"></i>
+                <a href="#!/newJourney">Back to new Journey page</a>
+            </div>
+        </div>
+    </div>
+</div>

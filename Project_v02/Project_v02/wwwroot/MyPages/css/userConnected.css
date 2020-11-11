@@ -1,0 +1,118 @@
+﻿
+.bigTable {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    color: #fa0000;
+    border: 1px solid rgba(0,0,0,.2);
+    background-color: #fffdd9;
+    border-radius: 1.1rem;
+    height: 360px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    max-width: 100%;
+}
+
+.ongoingTripTitle {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #6f6f6f;
+    text-align: center;
+    padding: 5px;
+}
+
+.ongoingTripValues {
+    background-color: #fffef0;
+    color: black;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgba(161, 161, 161, 0.2);
+    margin: auto;
+    max-width: 85%;
+    height: 232px;
+    overflow: auto;
+}
+
+.btn-block {
+    width: 60%;
+}
+
+.scrollTable {
+    font-size: 14px;
+    color: #ff0000;
+}
+
+.inputSearchPartialJourneys {
+    width: 120px;
+    height: 25px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    font-size: 20px;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 0px solid #dee2e6 !important;
+    border-bottom: 0px solid #dee2e6 !important;
+}
+
+.userConnectedButton {
+    background-color: #ff0000ad !important;
+}
+
+
+@media (min-height: 500x) {
+    .bigTable {
+        height: 285px;
+    }
+
+    .scrollTable {
+        font-size: 10px;
+    }
+}
+
+@media (max-height: 569px) {
+
+    .bigTable {
+        max-height: 320px;
+    }
+
+    .ongoingTripValues {
+        max-height: 255px;
+    }
+
+    .scrollTable {
+        font-size: 10px;
+    }
+}
+
+@media (min-height: 570x) {
+
+    .bigTable {
+        height: 365px;
+    }
+
+    .scrollTable {
+        font-size: 10px;
+    }
+}
+
+@media (max-height: 641px) {
+
+    .bigTable {
+        height: 365px;
+    }
+
+    .scrollTable {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 450px) {
+    .inputSearchPartialJourneys {
+        width: 80px;
+    }
+}

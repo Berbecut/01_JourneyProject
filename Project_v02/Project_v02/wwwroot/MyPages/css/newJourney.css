@@ -1,0 +1,281 @@
+﻿.bigTablePickList1 {
+    border-radius: 0.5rem;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    background-color: #e8e8e8;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 30px;
+    width: 25%;
+    font-size: 15px;
+}
+
+.optionCar {
+    font-size: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.titleRegisterTrip {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.formNewJourney {
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: flex;
+}
+
+.formInputData {
+    border-radius: 2px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputSM {
+    border-radius: 10px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputEM {
+    border-radius: 10px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputJL {
+    border-radius: 2px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputSA {
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1;
+}
+
+.formInputNo {
+    border-radius: 10px;
+    margin-left: 2px;
+    width: 35px;
+}
+
+.formInputEA {
+    border-radius: 10px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputMC {
+    border-radius: 2px;
+    margin-left: 5px;
+    flex: 1;
+}
+
+.formInputMN {
+    height: 55px;
+    flex: 1;
+    border: 1.5px solid #ababab;
+}
+
+.savePartialJourneyClass {
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    border-radius: 1.25rem;
+}
+
+.myerror {
+    color: red;
+}
+
+
+@media (max-width: 435px) {
+    .formInputData {
+        width: 100px;
+    }
+
+    .formInputSM {
+        width: 100px;
+    }
+
+    .formInputEM {
+        width: 100px;
+    }
+
+    .formInputJL {
+        width: 100px;
+    }
+
+    .formInputSA {
+        width: 100px;
+    }
+
+    .formInputNo {
+        width: 20px;
+    }
+
+    .formInputEA {
+        width: 100px;
+    }
+
+    .formInputMC {
+        width: 100px;
+    }
+
+    .formInputMN {
+        width: 100px;
+    }
+
+    .savePartialJourneyClass {
+        width: 100px;
+    }
+
+    .btn {
+        font-size: 0.77rem !important;
+        margin-top: 10px;
+    }
+}
+
+@media (max-height: 668px) {
+    .btn {
+        font-size: 0.77rem !important;
+        margin-top: 10px;
+    }
+}
+
+@media (max-height: 600px) {
+
+    .myform {
+        height: 480px;
+    }
+
+    .formInputData {
+        height: 25px;
+    }
+
+    .formInputSM {
+        height: 25px;
+    }
+
+    .formInputEM {
+        height: 25px;
+    }
+
+    .formInputJL {
+        height: 25px;
+    }
+
+    .formInputSA {
+        height: 25px;
+    }
+
+    .formInputNo {
+        height: 25px;
+    }
+
+    .formInputEA {
+        height: 25px;
+    }
+
+    .formInputMC {
+        height: 25px;
+    }
+
+    .formInputMN {
+        height: 25px;
+    }
+
+    .btn {
+        font-size: 0.57rem !important;
+        margin-top: 10px;
+    }
+}
+
+@media (max-height: 568px) {
+
+    .myform {
+        height: 470px; /*??????????????????????*/
+    }
+
+    .label {
+        margin-bottom: 3px;
+    }
+
+    .formNewJourney {
+        margin-bottom: 3px;
+    }
+
+    .formInputJL {
+        height: 25px;
+    }
+
+    .formInputMN {
+        height: 25px;
+    }
+
+    .btn {
+        font-size: 0.57rem !important;
+        margin-top: 5px;
+    }
+}
+
+
+@media (max-height: 480px) {
+
+    .myform {
+        height: 375px;
+    }
+
+    .label {
+        margin-bottom: 1px;
+    }
+
+    .formNewJourney {
+        margin-bottom: 1px;
+        font-size: 12px;
+    }
+
+    .formInputJL {
+        height: 25px;
+    }
+
+    .formInputMN {
+        height: 25px;
+    }
+
+    .btn {
+        font-size: 0.57rem !important;
+        margin-top: 1px;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 100% !important;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 100% !important;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
+}
